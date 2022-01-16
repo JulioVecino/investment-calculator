@@ -3,7 +3,7 @@
 >###Prueba Técnica - Disruptive Studio
 
 ## Tecnologías usadas
-- ###Front
+- ### Front
   - VueJs
   - Javascipt
 - ### Backend
