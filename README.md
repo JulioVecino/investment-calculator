@@ -1,6 +1,6 @@
 
-#Calculadora de Inversión
-###Prueba Técnica - Disruptive Studio
+# Calculadora de Inversión
+### Prueba Técnica - Disruptive Studio
 
 ## Tecnologías usadas
 - ### Front
